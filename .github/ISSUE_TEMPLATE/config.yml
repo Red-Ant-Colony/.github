@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ❓ Questions
+    url: https://github.com/orgs/Red-Ant-Colony/discussions
+    about: Ask your questions on the GitHub Discussions.
+  - name: 🗣️ Report
+    url: mailto:info@redantcolony.com
+    about: Report if anything you want rise or need support
