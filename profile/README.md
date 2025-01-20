@@ -2,7 +2,7 @@
 
 ![Development-Team-Coding--Streamline-Bruxelles](https://github.com/user-attachments/assets/bff7e0cb-08f0-49be-8828-031848681874)
 
-# Red Ant Colony Engineering
+# Red Ant Colony
 
 > Building tomorrow's digital solutions today
 
@@ -17,5 +17,5 @@ Red Ant Colony is a dynamic IT solutions company transforming businesses through
 - System Architecture
 
 ## Contact
-📧 engineering@redantcolony.com  
+📧 info@redantcolony.com  
 🌐 www.redantcolony.com
